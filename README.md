@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fauzanramaa
 - 👀 I’m interested in Mobile dev and Web Dev
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @fauzan_ramaa
 
 <!---
